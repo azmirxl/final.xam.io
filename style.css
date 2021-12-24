@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('https://img.freepik.com/free-vector/african-american-boy-walking-with-umbrella-playground-backpack-slide-cityscape-flat-vector-illustration-weather-childhood_74855-8210.jpg?size=338&ext=jpg') ;
+      
+    height: 100%;
+
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+        
+}
